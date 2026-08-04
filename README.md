@@ -51,11 +51,11 @@
 ### 🌐 Social Media
 
 <p align="center">  
-  <a href="https://t.me/@ms_Null9" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" style="width: 40px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.duolingo.com/profile/-m1naa_void." target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/?size=100&id=xC8UrfjJ0QAX&format=png&color=000000" style="width: 40px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.sololearn.com/en/profile/35124151" target="_blank" style="text-decoration: none;"><img src="https://blob.sololearn.com/avatars/sololearn.png" style="width: 40px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codedex.io/@ms-Null" target="_blank" style="text-decoration: none;"><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" style="width: 40px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MyseLina" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=github" style="width: 35px;" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/ms_Null9" target="_blank"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" style="width: 40px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.duolingo.com/profile/-m1naa_void." target="_blank"><img src="https://img.icons8.com/?size=100&id=xC8UrfjJ0QAX&format=png&color=000000" style="width: 40px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sololearn.com/en/profile/35124151" target="_blank"><img src="https://blob.sololearn.com/avatars/sololearn.png" style="width: 40px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codedex.io/@ms-Null" target="_blank"><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" style="width: 40px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MyseLina" target="_blank"><img src="https://skillicons.dev/icons?i=github" style="width: 35px;" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
