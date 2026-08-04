@@ -79,7 +79,7 @@ class MyseLina:
   *⭐ If you liked it, don't forget to star this repo!*
 <p>
   <a href="https://myselina.github.io/Bonuce-game/" target="_blank">
-    <img src="https://img.shields.io/badge/🎀_Bounce_Game-O'ynash_uchun_bosing-c964f5?style=for-the-badge" alt="Play Game" />
+    <img src="https://img.shields.io/badge/🎀_Bounce_Game-Click_to_play-c964f5?style=for-the-badge" alt="Play Game" />
   </a>
 </p>
 <!--
