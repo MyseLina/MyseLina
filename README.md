@@ -1,7 +1,7 @@
 [![TypingSVG](https://typingsvg.vercel.app/api/svg?text=Hi+everyone,+I'm+Muslima🎀&repeat=false&deletionBehavior=stay&cursorStyle=straight&width=1000&height=70&color=%23c964f5&backgroundColor=%2321262d&center=true&vCenter=true&typingSpeed=0.20&border=false)](https://typingsvg.vercel.app/)
 
 <h2 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=e3debc&center=true&vCenter=true&width=500&lines=Full-stack+Developer;Interested+in+cybersecurity.;I+enjoy+learning+new+things!" alt="Typing SVG" />
   </a>
 </h2>
@@ -78,7 +78,7 @@ class MyseLina:
 *My new project*
   *⭐ If you liked it, don't forget to star this repo!*
 <p>
-  <a href="https://myselina.github.io/Bonuce-game/">
+  <a href="https://myselina.github.io/Bonuce-game/" target="_blank">
     <img src="https://img.shields.io/badge/🎀_Bounce_Game-O'ynash_uchun_bosing-c964f5?style=for-the-badge" alt="Play Game" />
   </a>
 </p>
