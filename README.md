@@ -1,4 +1,4 @@
-[![TypingSVG](https://typingsvg.vercel.app/api/svg?text=Hi+everyone,+I'm+Muslima🎀&repeat=false&deletionBehavior=stay&cursorStyle=straight&width=1000&height=70&color=%23c964f5&backgroundColor=%2321262d&center=true&vCenter=true&typingSpeed=0.10&border=false)](https://typingsvg.vercel.app/)
+[![TypingSVG](https://typingsvg.vercel.app/api/svg?text=Hi+everyone,+I'm+Muslima🎀&repeat=false&deletionBehavior=stay&cursorStyle=straight&width=1000&height=70&color=%23c964f5&backgroundColor=%2321262d&center=true&vCenter=true&typingSpeed=0.20&border=false)](https://typingsvg.vercel.app/)
 
 <h2 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
