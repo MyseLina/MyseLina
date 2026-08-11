@@ -1,8 +1,14 @@
-[![TypingSVG](https://typingsvg.vercel.app/api/svg?text=Hi+everyone,+I'm+Muslima&repeat=false&deletionBehavior=stay&cursorStyle=straight&width=1000&height=70&color=%23c964f5&backgroundColor=%2300000000&center=true&vCenter=true&typingSpeed=0.10&border=false&font=Comic+Sans+MS)](https://typingsvg.vercel.app/)
+<!--[![TypingSVG](https://typingsvg.vercel.app/api/svg?text=Hi+everyone,+I'm+Muslima&repeat=false&deletionBehavior=stay&cursorStyle=straight&width=1000&height=70&color=%23c964f5&backgroundColor=%2300000000&center=true&vCenter=true&typingSpeed=0.10&border=false&font=Comic+Sans+MS)](https://typingsvg.vercel.app/)-->
+
+<h3 align="center">
+  <a href="https://typingsvg.vercel.app" target="_blank">
+    <img src="https://typingsvg.vercel.app/api/svg?font=Comic+Sans+MS&fontSize=45&width=1000&height=70&color=%23c964f5&backgroundColor=%2300000000&center=true&vCenter=true&repeat=false&deletionBehavior=stay&cursorStyle=straight&typingSpeed=0.10&border=false&text=Hi+everyone,+I'm+Muslima" alt="Typing SVG" />
+  </a>
+</h3>
 
 <h2 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=e3debc&center=true&vCenter=true&width=500&lines=Full-stack+Developer;Interested+in+cybersecurity.;I+enjoy+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=e3debc&center=true&vCenter=true&width=500&lines=Full-stack+Developer;Interested+in+cybersecurity.;I+enjoy+learning+new+things!" alt="Typing SVG" />
   </a>
 </h2>
 
