@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=MyseLina&layout=compact&theme=radical" alt="top languages" width="32%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyseLina&theme=tokyonight&hide_border=true" alt="streak stats" width="42%" />
+  <img src="https://streak-stats.demolab.com?user=MyseLina&theme=tokyonight&hide_border=true" alt="streak stats" width="42%" />
 </p>
 <p>
   <img src="https://github-readme-stats-eight-lyart.vercel.app/api?username=MyseLina&show_icons=true&theme=radical" alt="GitHub stats" width="42%" />
