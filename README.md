@@ -73,7 +73,7 @@ class MyseLina:
     def __init__(self):
         self.name = "Muslima"
         self.role = "Full-stack Developer"
-        self.tech_stack = [Python, HTML5, CSS3, SQLite]
+        self.tech_stack = ["Python", "HTML5", "CSS3", "SQLite"]
     @classmethod
     def status(cls, learning):
         while True:
