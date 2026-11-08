@@ -16,8 +16,8 @@
 
 ### 🚀 About Me
 
-<!--- 🔭 Hozirda **loyiha nomi** ustida ishlayapman-->
-- 🌱 Currently learning *Django*.
+- 🔭 Working on *School tests* project for my coursework
+<!---- 🌱 Currently learning *Django*.-->
 - 💬 You can ask me about *Python*.
 - ⚡ Fun fact: *Love clean code, pastel aesthetics, and continuous self-improvement. 🌸🎨*
 <!--- 📫 Menga bog'lanish: **email@example.com**-->
@@ -74,7 +74,7 @@ class MyseLina:
     def __init__(self):
         self.name = "Muslima"
         self.role = "Full-stack Developer"
-        self.tech_stack = ["Python", "HTML5", "CSS3", "SQLite"]
+        self.tech_stack = ["Python", "HTML5", "CSS3", "SQLite", "Django"]
     @classmethod
     def status(cls, learning):
         while True:
