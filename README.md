@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 <!---- 🌱 Currently learning *Django*.-->
-- 🔭 Working on *School tests* project for my coursework
+- 🔭 Working on **School tests** project for my coursework
 - 💬 You can ask me about *Python*.
 - ⚡ Fun fact: *Love clean code, pastel aesthetics, and continuous self-improvement. 🌸🎨*
 <!--- 📫 Menga bog'lanish: **email@example.com**-->
